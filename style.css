@@ -1,0 +1,20 @@
+
+
+body{
+	text-align:center;
+	width:60%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.top {
+background-color: #d1d1d1;
+text-align: center;
+ height:4%;
+}
+
+.bottom{
+	background: #f0f0f0;
+	height:9999px;
+	
+}
